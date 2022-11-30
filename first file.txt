@@ -3,3 +3,6 @@ mario
 poba
 ripoba
 superpoba
+megapoba
+hyperpoba
+extrapoba
